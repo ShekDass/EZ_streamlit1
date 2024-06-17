@@ -1,0 +1,15 @@
+# ML packages 
+scikit-learn
+#scikit-learn==1.3.2
+tensorflow
+#tensorflow-gpu==1.15.5
+nltk
+numpy
+pandas
+PyMuPDF
+
+# App packages
+streamlit==1.24.0
+
+#API
+gTTS==2.4.0
