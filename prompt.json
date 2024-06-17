@@ -1,0 +1,57 @@
+{
+	"insurancecompany": "",
+	"form name": "",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "",
+            "Employer/Group Name": "",
+            "Group Number": "",
+            "Payroll Location": "",
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Social Security Number": "",
+            "Address": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "County": " ",
+            "Home/Cell Phone": "",
+            "Marital Status": "",
+            "Enrollment Status": "",
+            "Full-Time Hire": "",
+            "Hours Worked Per Week": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}
